@@ -4,6 +4,7 @@ import './index.css'
 import SignUp from './SignUp.jsx'
 import Login from './login.jsx'
 import Home from './Home.jsx'
+import Error from './Error.jsx'
 
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from "react-router-dom"
 import Layout from './Layout.jsx'
